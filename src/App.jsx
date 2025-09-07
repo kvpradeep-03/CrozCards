@@ -73,10 +73,10 @@ function App() {
               </div>
               <div>
                 <h1 className="text-xl font-bold text-gray-900">
-                  Community Care Foundation
+                  CrozCards
                 </h1>
                 <p className="text-xs text-gray-500">
-                  Building Better Communities
+                  this is branch/dummy's 123
                 </p>
               </div>
             </div>
@@ -439,7 +439,7 @@ function App() {
                     Community Care Foundation
                   </h4>
                   <p className="text-sm text-gray-400">
-                    Building Better Communities
+                    test@test
                   </p>
                 </div>
               </div>
