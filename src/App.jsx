@@ -76,7 +76,7 @@ function App() {
                   CrozCards
                 </h1>
                 <p className="text-xs text-gray-500">
-                  Building Better Communities
+                  test@test
                 </p>
               </div>
             </div>
@@ -439,7 +439,7 @@ function App() {
                     Community Care Foundation
                   </h4>
                   <p className="text-sm text-gray-400">
-                    Building Better Communities
+                    test@test
                   </p>
                 </div>
               </div>
