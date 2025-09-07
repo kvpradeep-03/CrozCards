@@ -76,7 +76,7 @@ function App() {
                   CrozCards
                 </h1>
                 <p className="text-xs text-gray-500">
-                  test@test
+                  this is branch/dummy's 123
                 </p>
               </div>
             </div>
